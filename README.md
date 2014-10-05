@@ -3,9 +3,9 @@ backend-stuff
 
 A list of frameworks and plugins I used when building things on the web.
 
-- [Scraper & Crawler](#scraper--crawler)
+<!-- - [Scraper & Crawler](#scraper--crawler)
 - [Data Parser](#data-parser)
-- [API](#api)
+- [API](#api) -->
 
 ### Scraper & Crawler
 - [noodlejs](http://noodlejs.com/) - Node.js server and module for querying and scraping data from web documents
@@ -20,6 +20,11 @@ A list of frameworks and plugins I used when building things on the web.
 ### File Based DBs
 - [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
 - [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
+
+### Command Line
+- [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [Commander](https://github.com/visionmedia/commander.js) - Command-line interfaces made easy
+-[minimist](https://github.com/substack/minimist) - parse argument options
 
 ### API
 - [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
