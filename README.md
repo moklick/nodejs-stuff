@@ -31,4 +31,5 @@ A list of frameworks and plugins I used when building things on the web.
 -[minimist](https://github.com/substack/minimist) - parse argument options
 
 ### API
+- [apiary](http://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 - [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
