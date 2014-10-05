@@ -17,6 +17,10 @@ A list of frameworks and plugins I used when building things on the web.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [dsv](https://github.com/mbostock/dsv) - A parser and formatter for DSV (CSV and TSV) files
 
+### Fake Data
+- [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
+- [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
+
 ### File Based DBs
 - [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
 - [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
