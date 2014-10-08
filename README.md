@@ -1,6 +1,8 @@
 backend-stuff
 =============
 
+!! In Progress
+
 A list of frameworks and plugins I used when building things on the web.
 
 <!-- - [Scraper & Crawler](#scraper--crawler)
@@ -12,6 +14,8 @@ A list of frameworks and plugins I used when building things on the web.
 - [skrap](https://github.com/nickdima/skrap) - Easily scrap web pages by providing json recipes
 - [ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for Node.js + server-side jQuery
+- [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
+
 
 ### Data Parser
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
