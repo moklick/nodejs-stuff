@@ -37,3 +37,7 @@ A list of frameworks and plugins I used when building things on the web.
 ### API
 - [apiary](http://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 - [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
+
+### File based Databases
+- [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js (Mongo API)
+- [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database for Node (Lo-Dash functional programming API)
