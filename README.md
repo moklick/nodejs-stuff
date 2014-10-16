@@ -27,6 +27,7 @@ A list of frameworks and plugins I used when building things on the web.
 
 ### File Based DBs
 - [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
+- [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database for Node (Underscore API)
 - [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
 
 ### Command Line
