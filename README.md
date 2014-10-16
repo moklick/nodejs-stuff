@@ -25,11 +25,6 @@ A list of frameworks and plugins I used when building things on the web.
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
 - [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
 
-### File Based DBs
-- [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
-- [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database for Node (Underscore API)
-- [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
-
 ### Command Line
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [Commander](https://github.com/visionmedia/commander.js) - Command-line interfaces made easy
@@ -39,6 +34,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [apiary](http://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 - [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
 
-### File based Databases
+### File based databases
 - [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js (Mongo API)
 - [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database for Node (Lo-Dash functional programming API)
+- [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
