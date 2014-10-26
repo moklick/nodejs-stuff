@@ -20,6 +20,7 @@ A list of frameworks and plugins I used when building things on the web.
 ### Data Parser
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [dsv](https://github.com/mbostock/dsv) - A parser and formatter for DSV (CSV and TSV) files
+- [csvkit](http://csvkit.readthedocs.org/en/0.9.0/) - csv toolkit
 
 ### Fake Data
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
