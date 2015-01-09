@@ -16,11 +16,14 @@ A list of frameworks and plugins I used when building things on the web.
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for Node.js + server-side jQuery
 - [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
 
-
 ### Data Parser
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [dsv](https://github.com/mbostock/dsv) - A parser and formatter for DSV (CSV and TSV) files
 - [csvkit](http://csvkit.readthedocs.org/en/0.9.0/) - csv toolkit
+
+### Geo
+- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 
 ### Fake Data
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
