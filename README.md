@@ -15,6 +15,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for Node.js + server-side jQuery
 - [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
+- [x-ray](https://github.com/lapwinglabs/x-ray) - See through the <html> noise.
 
 ### Data Parser
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
