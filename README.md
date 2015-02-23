@@ -23,6 +23,11 @@ A list of frameworks and plugins I used when building things on the web.
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
 - [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
 
+### Authenfication
+- [darklord](https://github.com/GrumpyWizards/DarkLord) - Stateless Authentication Server - JWT based authentication
+- [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js
+- [drywall](https://github.com/jedireza/drywall/) - A website and user system
+
 ### API
 - [apiary](http://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 - [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
