@@ -21,6 +21,8 @@ A list of frameworks and plugins I used when building things on the web.
 - [minimist](https://github.com/substack/minimist) - Parse argument options
 - [yargs](https://github.com/bcoe/yargs) - Optstrings parser
 - [colors](https://github.com/marak/colors.js/) - Get colors in your console
+- [blessed](https://github.com/chjj/blessed) - High-level widgets for the Terminal
+- [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Terminal dashboards using ascii/ansi
 
 ## Process Manager
 - [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
