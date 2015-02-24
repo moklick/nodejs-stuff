@@ -10,6 +10,10 @@ A list of frameworks and plugins I used when building things on the web.
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your application and restart the server
 - [node-supervisor](https://github.com/isaacs/node-supervisor) - Supervisor script that runs your code, watches for changes and reloads your application
 
+## Process Manager
+- [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
+- [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
+
 ### Scraper & Crawler
 - [noodlejs](http://noodlejs.com/) - Node.js server and module for querying and scraping data from web documents
 - [skrap](https://github.com/nickdima/skrap) - Easily scrap web pages by providing json recipes
