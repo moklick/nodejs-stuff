@@ -61,6 +61,7 @@ A list of frameworks and plugins I used when building things on the web.
 ### Geo
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
+- [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
 
 ### General
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the fs object
