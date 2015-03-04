@@ -53,7 +53,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [BabyParse](https://github.com/Rich-Harris/BabyParse) - CSV parser based on PapaParse 
 - [node-csv](https://github.com/wdavidw/node-csv) - Full featured CSV parser
 
-### Fake Data
+### Fake Data & Mocking
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
 - [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations library
