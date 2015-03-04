@@ -52,6 +52,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [dsv](https://github.com/mbostock/dsv) - A parser and formatter for DSV (CSV and TSV) files
 - [BabyParse](https://github.com/Rich-Harris/BabyParse) - CSV parser based on PapaParse 
 - [node-csv](https://github.com/wdavidw/node-csv) - Full featured CSV parser
+- [any-json](https://github.com/laktak/any-json) - Convert csv, xls, xlsx, xml, yaml and more to JSON
 
 ### Fake Data & Mocking
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
