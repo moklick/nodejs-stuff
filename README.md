@@ -26,6 +26,10 @@ A list of frameworks and plugins I used when building things on the web.
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your application and restart the server
 - [node-supervisor](https://github.com/isaacs/node-supervisor) - Supervisor script that runs your code, watches for changes and reloads your application
 
+### Process Manager
+- [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
+- [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
+
 ### Command Line
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [Commander](https://github.com/visionmedia/commander.js) - Command-line interfaces made easy
@@ -35,10 +39,6 @@ A list of frameworks and plugins I used when building things on the web.
 - [blessed](https://github.com/chjj/blessed) - High-level widgets for the Terminal
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Terminal dashboards using ascii/ansi
 - [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling helper
-
-### Process Manager
-- [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
-- [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
 
 ### File Based Databases
 - [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js (Mongo API)
@@ -73,9 +73,9 @@ A list of frameworks and plugins I used when building things on the web.
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 - [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
 
-### API
-- [apiary](http://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
-- [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
+
 
 ### General
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the fs object
+- [del](https://github.com/sindresorhus/del) - Delete files/folders using globs
+- [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
