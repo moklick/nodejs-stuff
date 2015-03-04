@@ -41,7 +41,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling helper
 
 ### Scraper & Crawler
-- [noodlejs](http://noodlejs.com/) - Node.js server and module for querying and scraping data from web documents
+- [noodlejs](http://noodlejs.com/) - Server and module for querying and scraping data from web documents
 - [skrap](https://github.com/nickdima/skrap) - Easily scrap web pages by providing json recipes
 - [ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider + server-side jQuery
@@ -55,18 +55,18 @@ A list of frameworks and plugins I used when building things on the web.
 - [any-json](https://github.com/laktak/any-json) - Convert csv, xls, xlsx, xml, yaml and more to JSON
 
 ### Fake Data & Mocking
-- [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
+- [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data
 - [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations library
 
 ### Geo Helper
-- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 - [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
 
 ### File Based Databases
-- [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js (Mongo API)
-- [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database for Node (Lo-Dash functional programming API)
+- [nedb](https://github.com/louischatriot/nedb) - Embedded datastore (Mongo API)
+- [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database (Lo-Dash functional programming API)
 - [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
 
 ### Authentication
