@@ -23,6 +23,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [colors](https://github.com/marak/colors.js/) - Get colors in your console
 - [blessed](https://github.com/chjj/blessed) - High-level widgets for the Terminal
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Terminal dashboards using ascii/ansi
+- [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling helper
 
 ## Process Manager
 - [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
