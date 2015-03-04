@@ -1,6 +1,10 @@
 Node.js Stuff
 =============
 
+* [Node Version Manager](#node-version-manager)
+* [Node Version Manager](#node-version-manager)
+* * [Node Version Manager](#node-version-manager)
+* * [Node Version Manager](#node-version-manager)
 
 A list of frameworks and plugins I used when building things on the web.
 
@@ -25,7 +29,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Terminal dashboards using ascii/ansi
 - [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling helper
 
-## Process Manager
+### Process Manager
 - [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
 - [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
 
