@@ -5,13 +5,14 @@ A list of frameworks and plugins I used when building things on the web.
 
 * [Node Version Manager](#node-version-manager)
 * [Development Tools](#development-tools)
-* [Command Line](#command-line)
 * [Process Manager](#process-manager)
-* [File based databases](#file-based-databases)
-* [Authentication](#authentication)
+* [Command Line](#command-line)
 * [Scraper & Crawler](#scraper--crawler)
-* [Fake Data](#fake-data)
-* [Geo](#geo)
+* [Data Parser](#data-parser)
+* [Fake Data & Mocking](#fake-data--mocking)
+* [Geo Helper](#geo-helper)
+* [File Based Databases](#file-based-databases)
+* [Authentication](#authentication)
 * [General](#general)
 
 ### Node Version Manager
@@ -55,8 +56,9 @@ A list of frameworks and plugins I used when building things on the web.
 ### Fake Data
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data in Node.js and the browser
 - [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
+- [nock](https://github.com/pgte/nock) - HTTP mocking and expectations library
 
-### Geo
+### Geo Helper
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 - [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
