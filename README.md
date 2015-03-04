@@ -76,6 +76,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [passwordless](https://github.com/florianheinemann/passwordless) - Module to authenticate users without password
 
 ### General
+- [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery for the server
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the fs object
 - [del](https://github.com/sindresorhus/del) - Delete files/folders using globs
 - [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
