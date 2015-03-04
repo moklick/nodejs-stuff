@@ -2,9 +2,16 @@ Node.js Stuff
 =============
 
 * [Node Version Manager](#node-version-manager)
-* [Node Version Manager](#node-version-manager)
-* * [Node Version Manager](#node-version-manager)
-* * [Node Version Manager](#node-version-manager)
+* [Development Tools](#development-tools)
+* [Command Line](#command-line)
+* [Process Manager](#process-manager)
+* [File based databases](#file-based-databases)
+* [Authentication](#authentication)
+* [Scraper & Crawler](#Scraper-Crawler)
+* [Fake Data](#fake-data)
+* [Geo](#geo)
+* [API](#api)
+* [General](#general)
 
 A list of frameworks and plugins I used when building things on the web.
 
@@ -33,7 +40,7 @@ A list of frameworks and plugins I used when building things on the web.
 - [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
 - [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
 
-### File based databases
+### File Based Databases
 - [nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js (Mongo API)
 - [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database for Node (Lo-Dash functional programming API)
 - [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
@@ -43,10 +50,6 @@ A list of frameworks and plugins I used when building things on the web.
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js
 - [drywall](https://github.com/jedireza/drywall/) - A website and user system
 - [passwordless](https://github.com/florianheinemann/passwordless) - Module to authenticate users without password 
-
-### API
-- [apiary](http://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
-- [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
 
 ### Data Parser
 - [dsv](https://github.com/mbostock/dsv) - A parser and formatter for DSV (CSV and TSV) files
@@ -69,6 +72,10 @@ A list of frameworks and plugins I used when building things on the web.
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 - [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
+
+### API
+- [apiary](http://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+- [fortune](http://fortunejs.com) - A framework for prototyping hypermedia APIs
 
 ### General
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the fs object
