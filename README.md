@@ -1,6 +1,9 @@
 Node.js Stuff
 =============
 
+A list of frameworks and plugins I used when building things on the web.
+
+
 * [Node Version Manager](#node-version-manager)
 * [Development Tools](#development-tools)
 * [Command Line](#command-line)
@@ -10,10 +13,7 @@ Node.js Stuff
 * [Scraper & Crawler](#Scraper-Crawler)
 * [Fake Data](#fake-data)
 * [Geo](#geo)
-* [API](#api)
 * [General](#general)
-
-A list of frameworks and plugins I used when building things on the web.
 
 ### Node Version Manager
 - [nvm](https://github.com/creationix/nvm) - Bash script to manage multiple versions
