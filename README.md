@@ -10,7 +10,7 @@ A list of frameworks and plugins I used when building things on the web.
 * [Process Manager](#process-manager)
 * [File based databases](#file-based-databases)
 * [Authentication](#authentication)
-* [Scraper & Crawler](#Scraper-Crawler)
+* [Scraper & Crawler](#scraper--crawler)
 * [Fake Data](#fake-data)
 * [Geo](#geo)
 * [General](#general)
