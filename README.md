@@ -1,7 +1,7 @@
 Node.js Stuff
 =============
 
-A list of frameworks and plugins I used when building things on the web.
+A continuously expanded list of Node.js libs I want to keep in mind.
 
 * [Node Version Manager](#node-version-manager)
 * [Development Tools](#development-tools)
