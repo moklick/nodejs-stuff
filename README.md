@@ -10,7 +10,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 * [Scraper & Crawler](#scraper--crawler)
 * [Data Parser](#data-parser)
 * [Fake Data & Mocking](#fake-data--mocking)
-* [Geo Helper](#geo-helper)
+* [Geo & Mapping](#geo--mapping)
 * [File Based Databases](#file-based-databases)
 * [Authentication](#authentication)
 * [General](#general)
@@ -60,7 +60,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations library
 
-### Geo Helper
+### Geo & Mapping
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 - [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
