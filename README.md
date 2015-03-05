@@ -90,6 +90,11 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [passwordless](https://github.com/florianheinemann/passwordless) - Module to authenticate users without password
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more)
 
+### Validation
+- [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
+- [joi](https://github.com/hapijs/joi) - Object schema validation
+- [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
+
 ### General
 - [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery for the server
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the fs object
