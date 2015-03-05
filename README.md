@@ -74,10 +74,12 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 
 ### ORM's & ODM's
 - [waterline](https://github.com/balderdashy/waterline) - ORM/ODM for MySQL, Mongo, PostgreSQL, Redis and more
+- [jugglingdb](https://github.com/1602/jugglingdb) - ORM/ODM for Redis, Mongo, MySQL, SQLite, PostgreSQL, neo4j and memory
+- [node-orm2](https://github.com/dresende/node-orm2) - ORM for MySQL, MariaDB, PostgreSQL, Amazon Redshift and SQLite
 - [mongoose](http://mongoosejs.com/) - ODM for Mongo
 - [mongorito](https://github.com/vdemedes/mongorito) - ES6 generator-based MongoDB ODM 
 - [sequelize](http://docs.sequelizejs.com/en/latest/) - ORM for PostgreSQL, MySQL, MariaDB, SQLite and MSSQL  
-- [bookshelf](http://bookshelfjs.org/) - ORM for PostgreSQL, MySQL, and SQLite3
+- [bookshelf](http://bookshelfjs.org/) - ORM for PostgreSQL, MySQL, and SQLite
 
 ### Authentication
 - [darklord](https://github.com/GrumpyWizards/DarkLord) - Stateless Authentication Server - JWT based authentication
