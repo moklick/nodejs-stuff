@@ -23,6 +23,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 
 ### Development Tools
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools
+- [theseus](https://github.com/adobe-research/theseus) - A debugger for Brackets
 - [node-dev](https://github.com/fgnass/node-dev) - Zero-conf reloading
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your application and restart the server
 - [node-supervisor](https://github.com/isaacs/node-supervisor) - Supervisor script that runs your code, watches for changes and reloads your application
