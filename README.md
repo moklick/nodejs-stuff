@@ -10,7 +10,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 * [File Based Databases](#file-based-databases)
 * [Command Line](#command-line)
 * [Scraper & Crawler](#scraper--crawler)
-* [Data Parser](#data-parser)
+* [Data Parser/Converter](#data-parser-converter)
 * [Fake Data & Mocking](#fake-data--mocking)
 * [Geo & Mapping](#geo--mapping)
 * [Authentication](#authentication)
@@ -65,7 +65,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
 - [x-ray](https://github.com/lapwinglabs/x-ray) - See through the <html> noise
 
-### Data Parser
+### Data Parser/Converter
 - [dsv](https://github.com/mbostock/dsv) - A parser and formatter for DSV (CSV and TSV) files
 - [BabyParse](https://github.com/Rich-Harris/BabyParse) - CSV parser based on PapaParse 
 - [node-csv](https://github.com/wdavidw/node-csv) - Full featured CSV parser
