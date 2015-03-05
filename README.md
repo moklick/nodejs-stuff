@@ -53,6 +53,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [BabyParse](https://github.com/Rich-Harris/BabyParse) - CSV parser based on PapaParse 
 - [node-csv](https://github.com/wdavidw/node-csv) - Full featured CSV parser
 - [any-json](https://github.com/laktak/any-json) - Convert csv, xls, xlsx, xml, yaml and more to JSON
+- [exceljs](https://github.com/guyonroche/exceljs) - Excel Workbook Manager
 
 ### Fake Data & Mocking
 - [faker](https://github.com/marak/Faker.js/) - generate massive amounts of fake data
