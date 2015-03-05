@@ -31,6 +31,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 ### Process Manager
 - [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
 - [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
+- [naught](https://github.com/andrewrk/naught) - Zero downtime deployment
 
 ### ORM's & ODM's
 - [waterline](https://github.com/balderdashy/waterline) - ORM/ODM for MySQL, Mongo, PostgreSQL, Redis and more
@@ -87,6 +88,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication
 - [drywall](https://github.com/jedireza/drywall/) - A website and user system
 - [passwordless](https://github.com/florianheinemann/passwordless) - Module to authenticate users without password
+- [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more)
 
 ### General
 - [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery for the server
