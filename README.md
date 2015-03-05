@@ -6,13 +6,13 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 * [Node Version Manager](#node-version-manager)
 * [Development Tools](#development-tools)
 * [Process Manager](#process-manager)
+* [ORM's & ODM's](#orms--odms)
+* [File Based Databases](#file-based-databases)
 * [Command Line](#command-line)
 * [Scraper & Crawler](#scraper--crawler)
 * [Data Parser](#data-parser)
 * [Fake Data & Mocking](#fake-data--mocking)
 * [Geo & Mapping](#geo--mapping)
-* [File Based Databases](#file-based-databases)
-* [ORM's & ODM's](#orms--odms)
 * [Authentication](#authentication)
 * [General](#general)
 
@@ -30,6 +30,20 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 ### Process Manager
 - [PM2](https://github.com/Unitech/pm2) - Process manager for with a built-in load balancer
 - [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
+
+### ORM's & ODM's
+- [waterline](https://github.com/balderdashy/waterline) - ORM/ODM for MySQL, Mongo, PostgreSQL, Redis and more
+- [jugglingdb](https://github.com/1602/jugglingdb) - ORM/ODM for Redis, Mongo, MySQL, SQLite, PostgreSQL, neo4j and memory
+- [node-orm2](https://github.com/dresende/node-orm2) - ORM for MySQL, MariaDB, PostgreSQL, Amazon Redshift and SQLite
+- [mongoose](http://mongoosejs.com/) - ODM for Mongo
+- [mongorito](https://github.com/vdemedes/mongorito) - ES6 generator-based MongoDB ODM 
+- [sequelize](http://docs.sequelizejs.com/en/latest/) - ORM for PostgreSQL, MySQL, MariaDB, SQLite and MSSQL  
+- [bookshelf](http://bookshelfjs.org/) - ORM for PostgreSQL, MySQL, and SQLite
+
+### File Based Databases
+- [nedb](https://github.com/louischatriot/nedb) - Embedded datastore (Mongo API)
+- [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database (Lo-Dash functional programming API)
+- [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
 
 ### Command Line
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -66,20 +80,6 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 - [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
 - [tilestrata](https://github.com/naturalatlas/tilestrata) - A pluggable map tile server
-
-### File Based Databases
-- [nedb](https://github.com/louischatriot/nedb) - Embedded datastore (Mongo API)
-- [lowdb](https://github.com/typicode/lowdb) - Flat JSON file database (Lo-Dash functional programming API)
-- [diskdb](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API
-
-### ORM's & ODM's
-- [waterline](https://github.com/balderdashy/waterline) - ORM/ODM for MySQL, Mongo, PostgreSQL, Redis and more
-- [jugglingdb](https://github.com/1602/jugglingdb) - ORM/ODM for Redis, Mongo, MySQL, SQLite, PostgreSQL, neo4j and memory
-- [node-orm2](https://github.com/dresende/node-orm2) - ORM for MySQL, MariaDB, PostgreSQL, Amazon Redshift and SQLite
-- [mongoose](http://mongoosejs.com/) - ODM for Mongo
-- [mongorito](https://github.com/vdemedes/mongorito) - ES6 generator-based MongoDB ODM 
-- [sequelize](http://docs.sequelizejs.com/en/latest/) - ORM for PostgreSQL, MySQL, MariaDB, SQLite and MSSQL  
-- [bookshelf](http://bookshelfjs.org/) - ORM for PostgreSQL, MySQL, and SQLite
 
 ### Authentication
 - [darklord](https://github.com/GrumpyWizards/DarkLord) - Stateless Authentication Server - JWT based authentication
