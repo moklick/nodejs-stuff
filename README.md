@@ -14,6 +14,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 * [Fake Data & Mocking](#fake-data--mocking)
 * [Geo & Mapping](#geo--mapping)
 * [Authentication](#authentication)
+* [Validation](#validation)
 * [General](#general)
 
 ### Node Version Manager
