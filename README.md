@@ -15,6 +15,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 * [Geo & Mapping](#geo--mapping)
 * [Authentication](#authentication)
 * [Validation](#validation)
+* [Security](#security)
 * [General](#general)
 
 ### Node Version Manager
@@ -97,6 +98,13 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 - [joi](https://github.com/hapijs/joi) - Object schema validation
 - [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
+
+### Security
+
+- [CSRF](http://www.senchalabs.org/connect/csrf.html) - CSRF protection middleware.
+- [Helmet](https://github.com/helmetjs/helmet) - Middleware to help secure your Express/Connect apps
+- [Credential](https://github.com/ericelliott/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
+- [NodeSecurity](https://github.com/nodesecurity) - The Node Security Project
 
 ### General
 - [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery for the server
