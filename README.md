@@ -100,6 +100,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
 
 ### Security
+
 - [CSRF](http://www.senchalabs.org/connect/csrf.html) - CSRF protection middleware.
 - [Helmet](https://github.com/helmetjs/helmet) - Middleware to help secure your Express/Connect apps
 - [Credential](https://github.com/ericelliott/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
