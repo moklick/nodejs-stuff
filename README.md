@@ -66,6 +66,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider + server-side jQuery
 - [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
 - [x-ray](https://github.com/lapwinglabs/x-ray) - See through the <html> noise
+- [yakuza](https://github.com/Narzerus/yakuza) - Highly scalable scraping framework
 
 ### Data Parser/Converter
 - [dsv](https://github.com/mbostock/dsv) - A parser and formatter for DSV (CSV and TSV) files
