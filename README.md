@@ -65,6 +65,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider + server-side jQuery
 - [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
+- [node-osmosis](https://github.com/rc0x03/node-osmosis) - HTML/XML parser and web scraper for NodeJS
 - [x-ray](https://github.com/lapwinglabs/x-ray) - See through the <html> noise
 - [yakuza](https://github.com/Narzerus/yakuza) - Highly scalable scraping framework
 
