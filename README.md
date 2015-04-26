@@ -16,6 +16,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 * [Authentication](#authentication)
 * [Validation](#validation)
 * [Security](#security)
+* [Headless Browser](#headless-browser)
 * [General](#general)
 
 ### Node Version Manager
@@ -64,7 +65,6 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [skrap](https://github.com/nickdima/skrap) - Easily scrap web pages by providing json recipes
 - [ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider + server-side jQuery
-- [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
 - [node-osmosis](https://github.com/rc0x03/node-osmosis) - HTML/XML parser and web scraper for NodeJS
 - [x-ray](https://github.com/lapwinglabs/x-ray) - See through the <html> noise
 - [yakuza](https://github.com/Narzerus/yakuza) - Highly scalable scraping framework
@@ -102,11 +102,16 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
 
 ### Security
-
 - [CSRF](http://www.senchalabs.org/connect/csrf.html) - CSRF protection middleware.
 - [Helmet](https://github.com/helmetjs/helmet) - Middleware to help secure your Express/Connect apps
 - [Credential](https://github.com/ericelliott/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
 - [NodeSecurity](https://github.com/nodesecurity) - The Node Security Project
+
+### Headless Browser
+- [phantomjs](http://phantomjs.org/) - Headless WebKit scriptable with a JavaScript API
+- [casperjs](http://casperjs.org/) - Navigation scripting & testing utility for PhantomJS and SlimerJS
+- [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
+- [slimerjs](http://slimerjs.org/) - Scriptable browser based on Gecko
 
 ### General
 - [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery for the server
