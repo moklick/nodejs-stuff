@@ -53,6 +53,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 ### Command Line
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [Commander](https://github.com/visionmedia/commander.js) - Command-line interfaces made easy
+- [Clor](https://github.com/bucaran/clor) - Civilized terminal styles
 - [minimist](https://github.com/substack/minimist) - Parse argument options
 - [yargs](https://github.com/bcoe/yargs) - Optstrings parser
 - [colors](https://github.com/marak/colors.js/) - Get colors in your console
