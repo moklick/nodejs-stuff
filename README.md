@@ -23,7 +23,8 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [n](https://github.com/tj/n) - Version management
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node
 - [nvm](https://github.com/creationix/nvm) - Bash script to manage multiple versions
-- 
+
+
 ### Development Tools
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your application and restart the server
 - [node-dev](https://github.com/fgnass/node-dev) - Zero-conf reloading
