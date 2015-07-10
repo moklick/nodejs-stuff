@@ -89,10 +89,12 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [Leaflet headless](https://github.com/jieter/leaflet-headless) - Headless version of Leaflet using jsdom and canvas
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing geospatial vector data
 - [node-gdal](https://github.com/naturalatlas/node-gdal) - GDAL bindings
+- [ogr2ogr](https://github.com/wavded/ogr2ogr) - ogr2ogr wrapper
 - [tilestream](https://github.com/mapbox/tilestream) - A map tile server powered by MBTiles files
 - [tilestrata](https://github.com/naturalatlas/tilestrata) - A pluggable map tile server
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 - [Windshaft](https://github.com/CartoDB/Windshaft) - A map tile server for PostGIS based on Mapnik
+
 
 ### Authentication
 - [darklord](https://github.com/GrumpyWizards/DarkLord) - Stateless Authentication Server - JWT based authentication
