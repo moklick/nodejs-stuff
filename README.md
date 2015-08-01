@@ -32,7 +32,6 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [node-supervisor](https://github.com/isaacs/node-supervisor) - Supervisor script that runs your code, watches for changes and reloads your application
 - [theseus](https://github.com/adobe-research/theseus) - A debugger for Brackets
 
-
 ### Process Manager
 - [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
 - [naught](https://github.com/andrewrk/naught) - Zero downtime deployment
@@ -46,6 +45,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [moron.js](https://github.com/Vincit/moron.js) - Based on knex supporting SQLite3, Postgres and MySQL
 - [node-orm2](https://github.com/dresende/node-orm2) - ORM for MySQL, MariaDB, PostgreSQL, Amazon Redshift and SQLite
 - [sequelize](http://docs.sequelizejs.com/en/latest/) - ORM for PostgreSQL, MySQL, MariaDB, SQLite and MSSQL
+- [thinky](https://github.com/neumino/thinky) - Rethink ORM
 - [waterline](https://github.com/balderdashy/waterline) - ORM/ODM for MySQL, Mongo, PostgreSQL, Redis and more
 
 ### File Based Databases
