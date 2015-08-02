@@ -39,6 +39,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 
 ### ORM's & ODM's
 - [bookshelf](http://bookshelfjs.org/) - ORM for PostgreSQL, MySQL, and SQLite
+- [graffiti](https://github.com/RisingStack/graffiti) - GraphQL ORM
 - [jugglingdb](https://github.com/1602/jugglingdb) - ORM/ODM for Redis, Mongo, MySQL, SQLite, PostgreSQL, neo4j and memory
 - [mongoose](http://mongoosejs.com/) - ODM for Mongo
 - [mongorito](https://github.com/vdemedes/mongorito) - ES6 generator-based MongoDB ODM
