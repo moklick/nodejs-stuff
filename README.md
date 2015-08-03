@@ -24,7 +24,6 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node
 - [nvm](https://github.com/creationix/nvm) - Bash script to manage multiple versions
 
-
 ### Development Tools
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your application and restart the server
 - [node-dev](https://github.com/fgnass/node-dev) - Zero-conf reloading
@@ -83,6 +82,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [node-csv](https://github.com/wdavidw/node-csv) - Full featured CSV parser
 
 ### Fake Data & Mocking
+- [chance](http://chancejs.com) - Minimalist generator of random strings, numbers and more
 - [faker](https://github.com/marak/Faker.js/) - Generate massive amounts of fake data
 - [fake identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations library
