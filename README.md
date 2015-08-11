@@ -98,11 +98,11 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 - [Windshaft](https://github.com/CartoDB/Windshaft) - A map tile server for PostGIS based on Mapnik
 
-
 ### Authentication
 - [darklord](https://github.com/GrumpyWizards/DarkLord) - Stateless Authentication Server - JWT based authentication
 - [drywall](https://github.com/jedireza/drywall/) - A website and user system
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more)
+- [node-oauth2-server](https://github.com/thomseddon/node-oauth2-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication
 - [passwordless](https://github.com/florianheinemann/passwordless) - Module to authenticate users without password
 
