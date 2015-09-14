@@ -128,6 +128,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [i18n](https://github.com/mashpie/i18n-node) - Lightweight simple translation module
 - [i18n-abide](https://github.com/mozilla/i18n-abide) - connect module for i18n and l10n support
 - [Jed](https://github.com/SlexAxton/Jed) - Gettext Style i18n
+- [messageformat](https://github.com/SlexAxton/messageformat.js) - MessageFormat for Javascript - i18n Plural and Gender Capable Messages
 - [polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages
 
 ### General
