@@ -17,6 +17,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 * [Validation](#validation)
 * [Security](#security)
 * [Headless Browser](#headless-browser)
+* [Internationalization](#internationalization)
 * [General](#general)
 
 ### Node Version Manager
@@ -122,6 +123,12 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
 - [phantomjs](http://phantomjs.org/) - Headless WebKit scriptable with a JavaScript API
 - [slimerjs](http://slimerjs.org/) - Scriptable browser based on Gecko
+
+### Internationalization
+- [i18n](https://github.com/mashpie/i18n-node) - Lightweight simple translation module
+- [i18n-abide](https://github.com/mozilla/i18n-abide) - connect module for i18n and l10n support
+- [Jed](https://github.com/SlexAxton/Jed) - Gettext Style i18n
+- [polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages
 
 ### General
 - [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery for the server
