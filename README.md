@@ -65,6 +65,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
 - [minimist](https://github.com/substack/minimist) - Parse argument options
 - [vantage](https://github.com/dthree/vantage) - An interactive CLI for Node
+- [vorpal](https://github.com/dthree/vorpal) - Framework for interactive CLI apps.
 - [yargs](https://github.com/bcoe/yargs) - Optstrings parser
 
 ### Scraper & Crawler
