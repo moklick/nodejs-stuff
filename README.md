@@ -33,6 +33,13 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [node-supervisor](https://github.com/isaacs/node-supervisor) - Supervisor script that runs your code, watches for changes and reloads your application
 - [theseus](https://github.com/adobe-research/theseus) - A debugger for Brackets
 
+### Web Application Frameworks
+- [adonisjs](http://www.adonisjs.com/) - ES6 friendly MVC Framework
+- [deployd](http://deployd.com/) - Toolkit for building realtime APIs
+- [sails](http://sailsjs.org/) - MVC framework with auto-generated REST APIs, Web-Socket support and security policies
+- [strapi](http://strapi.io/) - Framework with admin panel, user management and GraphQL support
+- [trails](https://github.com/trailsjs/trails) - Framework with API-driven design philosophy
+
 ### Process Manager
 - [forever](https://github.com/foreverjs/forever) - CLI tool for ensuring that a given script runs continuously
 - [naught](https://github.com/andrewrk/naught) - Zero downtime deployment
