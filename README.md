@@ -67,6 +67,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Terminal dashboards using ascii/ansi
 - [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling helper
 - [Clor](https://github.com/bucaran/clor) - Civilized terminal styles
+- [cmnd](https://github.com/keithwhor/cmnd) - Command Line Interface Utility using ES6 idioms
 - [colors](https://github.com/marak/colors.js/) - Get colors in your console
 - [Commander](https://github.com/visionmedia/commander.js) - Command-line interfaces made easy
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
