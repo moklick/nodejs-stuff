@@ -82,6 +82,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [noodlejs](http://noodlejs.com/) - Server and module for querying and scraping data from web documents
 - [node-osmosis](https://github.com/rc0x03/node-osmosis) - HTML/XML parser and web scraper for NodeJS
 - [scrape-it](https://github.com/IonicaBizau/scrape-it) - A scraping module for humans
+- [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper
 - [skrap](https://github.com/nickdima/skrap) - Easily scrap web pages by providing json recipes
 - [SUq](https://github.com/MattMcFarland/SUq) - Scraping Utility
 - [x-ray](https://github.com/lapwinglabs/x-ray) - See through the <html> noise
