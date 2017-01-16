@@ -26,6 +26,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [nvm](https://github.com/creationix/nvm) - Bash script to manage multiple versions
 
 ### Development Tools
+- [backpack](https://github.com/palmerhq/backpack) - Minimalistic build system
 - [iron-node](http://s-a.github.io/iron-node/index.html) - Debug Node.js code with Chrome Developer Tools
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your application and restart the server
 - [node-dev](https://github.com/fgnass/node-dev) - Zero-conf reloading
