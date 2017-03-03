@@ -71,6 +71,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [cmnd](https://github.com/keithwhor/cmnd) - Command Line Interface Utility using ES6 idioms
 - [colors](https://github.com/marak/colors.js/) - Get colors in your console
 - [Commander](https://github.com/visionmedia/commander.js) - Command-line interfaces made easy
+- [Caporal.js](https://github.com/mattallty/Caporal.js) - Full-featured framework for building command line apps
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
 - [minimist](https://github.com/substack/minimist) - Parse argument options
 - [vantage](https://github.com/dthree/vantage) - An interactive CLI for Node
