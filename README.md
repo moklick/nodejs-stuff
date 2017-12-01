@@ -74,6 +74,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - Full-featured framework for building command line apps
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
 - [minimist](https://github.com/substack/minimist) - Parse argument options
+- [Terminal Kit](https://github.com/cronvel/terminal-kit) - Terminal utilities
 - [vantage](https://github.com/dthree/vantage) - An interactive CLI for Node
 - [vorpal](https://github.com/dthree/vorpal) - Framework for interactive CLI apps.
 - [yargs](https://github.com/bcoe/yargs) - Optstrings parser
