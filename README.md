@@ -37,6 +37,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 ### Web Application Frameworks
 - [adonisjs](http://www.adonisjs.com/) - ES6 friendly MVC Framework
 - [deployd](http://deployd.com/) - Toolkit for building realtime APIs
+- [egg](https://eggjs.org/) - Framework based on koa.js
 - [sails](http://sailsjs.org/) - MVC framework with auto-generated REST APIs, Web-Socket support and security policies
 - [strapi](http://strapi.io/) - Framework with admin panel, user management and GraphQL support
 - [trails](https://github.com/trailsjs/trails) - Framework with API-driven design philosophy
