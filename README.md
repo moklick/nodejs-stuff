@@ -57,6 +57,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [moron.js](https://github.com/Vincit/moron.js) - Based on knex supporting SQLite3, Postgres and MySQL
 - [node-orm2](https://github.com/dresende/node-orm2) - ORM for MySQL, MariaDB, PostgreSQL, Amazon Redshift and SQLite
 - [objection.js](https://github.com/Vincit/objection.js) - An SQL ORM
+- [prisma](https://github.com/prisma/prisma) - Database Tools incl. ORM, Migrations and Admin UI
 - [sequelize](http://docs.sequelizejs.com/en/latest/) - ORM for PostgreSQL, MySQL, MariaDB, SQLite and MSSQL
 - [thinky](https://github.com/neumino/thinky) - Rethink ORM
 - [waterline](https://github.com/balderdashy/waterline) - ORM/ODM for MySQL, Mongo, PostgreSQL, Redis and more
