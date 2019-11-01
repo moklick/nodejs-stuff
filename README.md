@@ -144,6 +144,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [casperjs](http://casperjs.org/) - Navigation scripting & testing utility for PhantomJS and SlimerJS
 - [nightmarejs](http://www.nightmarejs.org/) - A high level wrapper for Phantomjs
 - [phantomjs](http://phantomjs.org/) - Headless WebKit scriptable with a JavaScript API
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API 
 - [slimerjs](http://slimerjs.org/) - Scriptable browser based on Gecko
 
 ### Internationalization
