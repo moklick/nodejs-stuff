@@ -38,6 +38,7 @@ A continuously expanded list of Node.js libs I want to keep in mind.
 - [adonisjs](http://www.adonisjs.com/) - ES6 friendly MVC Framework
 - [deployd](http://deployd.com/) - Toolkit for building realtime APIs
 - [egg](https://eggjs.org/) - Framework based on koa.js
+- [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework
 - [nest](https://github.com/nestjs/nest) - Framework for building efficient, reliable and scalable server-side applications
 - [sails](http://sailsjs.org/) - MVC framework with auto-generated REST APIs, Web-Socket support and security policies
 - [strapi](http://strapi.io/) - Framework with admin panel, user management and GraphQL support
